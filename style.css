@@ -118,7 +118,7 @@ img {
 
 .footer {
     grid-area: footer;
-    background: background: linear-gradient(135deg, #8844ee, #d07dfb);
+    background: linear-gradient(135deg, #8844ee, #d07dfb);
 }
 
 .footer p {
