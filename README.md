@@ -3,8 +3,7 @@
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
 
 ### Application: 
-![image](https://user-images.githubusercontent.com/74930052/148692146-04a2f51d-8b78-4955-93ff-064cde001584.png)
-
+![image](https://user-images.githubusercontent.com/74930052/149048463-47364fb9-0ca2-4bbe-af64-af823d1d6872.png)
 
 <p align="center">Este projeto faz parte da série de vídeos da Origamid <a href="https://www.youtube.com/watch?v=x-4z_u8LcGc" target='_blank'> Aqui </a> </p>
 
